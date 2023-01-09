@@ -16,6 +16,6 @@ of minimal voice leading and consonance difference best
 explains the experimental similarity data collected on dyads
 and triads of Shepard tones.
 ## Analysis
-The two included Jupyter Notebooks contain my analysis. ```similarity_analysis_experiment``` contains the analysis for dyads and ```dense_experiment_analysis``` contains the analysis for triads, but both follow largely the same structure.
+The two included Jupyter Notebooks contain my analysis. ```similarity_analysis_experiment``` contains the analysis for dyads and ```dense_experiment_analysis``` contains the analysis for triads, but both follow largely the same structure. Unfortunately, I cannot share the data used in the analysis as it has not yet been published.
 ## 
 Independent research under the guidance of Raja Marjieh and Tom Griffiths for his course COS/PSY 454 Probabilistic Models of Cognition.
